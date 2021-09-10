@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TudorGabriel28
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Html, Javascript, Css, Http, MySQL, Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Vue.js
 - 📫 How to reach me - tudordangabriel28@gmail.com
 
 <!---
