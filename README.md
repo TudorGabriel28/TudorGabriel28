@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tudor Gabriel</h1>
 <h3 align="center">Q: What is a programmer favourite place? A: Foo Bar</h3>
 
-- 🔭 I’m currently working on [myflix](https://github.com/TudorGabriel28/myflix)
+- 🔭 I’m currently working on [Advanced Web Ranking](https://www.advancedwebranking.com/)
 
 - 🌱 I’m currently learning **.NET Core**
 
